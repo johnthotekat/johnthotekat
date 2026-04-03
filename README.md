@@ -1,32 +1,86 @@
 # Hey, I'm John Thomas
 
-**Data Engineer | AI Enthusiast | Blockchain Explorer | Linux Tinkerer**
+**Technical Architect @ Prevalent AI | Creator of Data Bridge**
 
-From Kerala, India. Curious about everything that runs on data, code, and consensus.
+I wrote my first line of C++ in 2003 and never really left the screen since. I'm not the guy who grinds LeetCode for fun — I'm more the guy who needs to know *how things work* under the hood, and occasionally ends up building them.
+
+I was one of the early ones who jumped into Big Data back in 2013–14 — built production-grade Cloudera Hadoop clusters, managed them through Hue, and watched the ecosystem grow from MapReduce jobs to Spark to everything running on Kubernetes today. Those were good times, and I still miss them. But what excites me is how far we've come — from wrestling with YARN configs to orchestrating GPU workloads on K8s.
+
+Over the years, I've worked across multiple organizations building engineering teams and products from the ground up. Currently, I'm the creator, architect, and product owner of **Data Bridge** at **Prevalent AI** — an ingestion platform that can extract data from virtually any source, including custom APIs, into the data lake.
+
+Lately, I've been deep in the Claude Code rabbit hole — and it's been a ride. Some things I've been experimenting with:
+
+- Building **RAG pipelines** and document intelligence systems
+- Spinning up **AI agents** with multi-agent orchestration
+- Writing custom **MCP servers** and tools
+- Running **local LLMs** on my rig with Ollama
+- **Grammar-constrained generation** — making small LLMs follow strict output formats using GBNF grammars
+- **AI image generation** with ComfyUI, IPAdapter, and consistent character workflows
+- **On-chain analytics** and automated trading strategies on Solana
+- Full-stack apps — from data pipelines to frontends, all vibe-coded with Claude
 
 ---
 
-### Interests
+### The Rig
 
-- **Big Data & Data Engineering** — Spark, Kafka, Hadoop, dbt, Airflow
-- **AI & LLMs** — Building with large language models, RAG systems, AI agents
-- **Blockchain & Web3** — Solana, on-chain analytics, DeFi
-- **Languages** — Python, Java, Scala, SQL
-- **Linux & Open Source** — Daily driving Linux, contributing where I can
+My daily driver for all of this:
+
+```
+CPU    AMD Ryzen (B650M Gigabyte GAMING X AX)
+GPU    NVIDIA RTX 3080 Ti (12GB VRAM)
+RAM    32 GB DDR5
+SSD    NVMe
+OS     Ubuntu Linux (kernel 6.17)
+```
+
+Good enough to run local models, ComfyUI workflows, Docker stacks, and the occasional CS2 session.
+
+---
+
+### What I Bring to the Table
+
+**The foundation** — Spring Boot, REST/SOAP Web Services, Python Django, Apache Spark, cloud-native apps. Built production systems with these for years.
+
+**The evolution** — Big Data pipelines, Kafka streaming, Hadoop ecosystems, Kubernetes orchestration, Docker everything.
+
+**The now** — With tools like Claude, the ceiling has moved. RAG systems, AI agents, MCP servers, full-stack apps, on-chain analytics — if I can think it, I can build it. The stack matters less when you understand the architecture.
 
 ---
 
 ### Tech Stack
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Data & Streaming**
+
 ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Infrastructure & Cloud**
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**AI & Web3**
+
+![Claude](https://img.shields.io/badge/-Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 
 ---
@@ -34,19 +88,20 @@ From Kerala, India. Curious about everything that runs on data, code, and consen
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnthotekat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnthotekat&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <a href="https://github.com/johnthotekat">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnthotekat&theme=tokyonight" alt="Contribution Graph" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnthotekat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnthotekat&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnthotekat&theme=tokyonight&utcOffset=5.5" alt="Commits by Time" height="165" />
 </p>
 
----
-
-### Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=johnthotekat&theme=tokyo-night&hide_border=true&area=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnthotekat&theme=tokyonight" alt="Top Languages by Repo" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnthotekat&theme=tokyonight" alt="Top Languages by Commit" height="165" />
+</p>
 
 ---
 
