@@ -41,9 +41,11 @@ Good enough to run local models, ComfyUI workflows, Docker stacks, and the occas
 
 | Era | Years | What I Was Building |
 |-----|-------|-------------------|
-| **The Foundation** | 2003 – 2012 | C++, Java, Spring Boot, REST/SOAP Web Services, Python Django, cloud-native apps. Learning how things work, building production systems. |
-| **The Big Data Wave** | 2013 – 2019 | Cloudera Hadoop clusters, Apache Spark, Kafka streaming, Hive, data pipelines. One of the early ones in — built it before it was cool. |
-| **The Cloud Native Era** | 2019 – 2024 | Kubernetes orchestration, Docker everything, microservices, CI/CD, cloud-native data platforms. Products and engineering teams at scale. |
+| **The Foundation** | 2003 – 2009 | C++, Java, SOAP/XML Web Services, servlets, JSP. Learning how things work from the ground up. |
+| **The Enterprise Years** | 2010 – 2013 | Spring, REST APIs, Java EE, Oracle, production-grade backend systems. |
+| **The Big Data Wave** | 2013 – 2017 | Cloudera Hadoop clusters, Hive, MapReduce, Apache Spark, Kafka. One of the early ones in — built it before it was cool. |
+| **The Platform Era** | 2017 – 2021 | Python Django, Spring Boot, microservices, Docker, data pipelines at scale. Building engineering teams and products. |
+| **The Cloud Native Era** | 2021 – 2024 | Kubernetes orchestration, cloud-native data platforms, CI/CD, FastAPI, everything containerized. |
 | **The AI Era** | 2024 – now | RAG systems, AI agents, MCP servers, local LLMs, on-chain analytics, full-stack apps — all vibe-coded with Claude. The stack matters less when you understand the architecture. |
 
 ---
@@ -69,13 +71,7 @@ Good enough to run local models, ComfyUI workflows, Docker stacks, and the occas
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnthotekat&theme=tokyonight" alt="GitHub Stats" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnthotekat&theme=tokyonight&utcOffset=5.5" alt="Commits by Time" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnthotekat&theme=tokyonight" alt="Top Languages by Repo" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnthotekat&theme=tokyonight" alt="Top Languages by Commit" height="165" />
 </p>
 
 ---
