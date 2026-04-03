@@ -2,22 +2,22 @@
 
 **Technical Architect @ Prevalent AI | Creator of Data Bridge**
 
-I wrote my first line of C++ in 2003 and never really left the screen since. I'm not the guy who grinds LeetCode for fun — I'm more the guy who needs to know *how things work* under the hood, and occasionally ends up building them.
+I wrote my first line of C++ in 2003 and never really left the screen since. I'm not the guy who grinds LeetCode for fun - I'm more the guy who needs to know *how things work* under the hood, and occasionally ends up building them.
 
-I was one of the early ones who jumped into Big Data back in 2013–14 — built production-grade Cloudera Hadoop clusters, managed them through Hue, and watched the ecosystem grow from MapReduce jobs to Spark to everything running on Kubernetes today. Those were good times, and I still miss them. But what excites me is how far we've come — from wrestling with YARN configs to orchestrating GPU workloads on K8s.
+I was one of the early ones who jumped into Big Data back in 2013-14 - built production-grade Cloudera Hadoop clusters, managed them through Hue, and watched the ecosystem grow from MapReduce jobs to Spark to everything running on Kubernetes today. Those were good times, and I still miss them. But what excites me is how far we've come - from wrestling with YARN configs to orchestrating GPU workloads on K8s.
 
-Over the years, I've worked across multiple organizations building engineering teams and products from the ground up. Currently, I'm the creator, architect, and product owner of **Data Bridge** at **Prevalent AI** — an ingestion platform that can extract data from virtually any source, including custom APIs, into the data lake.
+Over the years, I've worked across multiple organizations building engineering teams and products from the ground up. Currently, I'm the creator, architect, and product owner of **Data Bridge** at **Prevalent AI** - an ingestion platform that can extract data from virtually any source, including custom APIs, into the data lake.
 
-Lately, I've been deep in the Claude Code rabbit hole — and it's been a ride. Some things I've been experimenting with:
+Lately, I've been deep in the Claude Code rabbit hole - and it's been a ride. Some things I've been experimenting with:
 
 - Building **RAG pipelines** and document intelligence systems
 - Spinning up **AI agents** with multi-agent orchestration
 - Writing custom **MCP servers** and tools
 - Running **local LLMs** on my rig with Ollama
-- **Grammar-constrained generation** — making small LLMs follow strict output formats using GBNF grammars
+- **Grammar-constrained generation** - making small LLMs follow strict output formats using GBNF grammars
 - **AI image generation** with ComfyUI, IPAdapter, and consistent character workflows
 - **On-chain analytics** and automated trading strategies on Solana
-- Full-stack apps — from data pipelines to frontends, all vibe-coded with Claude
+- Full-stack apps - from data pipelines to frontends, all vibe-coded with Claude
 
 ---
 
@@ -41,12 +41,12 @@ Good enough to run local models, ComfyUI workflows, Docker stacks, and the occas
 
 | Era | Years | What I Was Building |
 |-----|-------|-------------------|
-| **The Foundation** | 2003 – 2009 | C++, Java, SOAP/XML Web Services, servlets, JSP. Learning how things work from the ground up. |
-| **The Enterprise Years** | 2010 – 2013 | Spring, REST APIs, Java EE, Oracle, production-grade backend systems. |
-| **The Big Data Wave** | 2013 – 2017 | Cloudera Hadoop clusters, Hive, MapReduce, Apache Spark, Kafka. One of the early ones in — built it before it was cool. |
-| **The Platform Era** | 2017 – 2021 | Python Django, Spring Boot, microservices, Docker, data pipelines at scale. Building engineering teams and products. |
-| **The Cloud Native Era** | 2021 – 2024 | Kubernetes orchestration, cloud-native data platforms, CI/CD, FastAPI, everything containerized. |
-| **The AI Era** | 2024 – now | RAG systems, AI agents, MCP servers, local LLMs, on-chain analytics, full-stack apps — all vibe-coded with Claude. The stack matters less when you understand the architecture. |
+| **The Foundation** | 2003 - 2009 | C++, Java, SOAP/XML Web Services, servlets, JSP. Learning how things work from the ground up. |
+| **The Enterprise Years** | 2010 - 2013 | Spring, REST APIs, Java EE, Oracle, production-grade backend systems. |
+| **The Big Data Wave** | 2013 - 2017 | Cloudera Hadoop clusters, Hive, MapReduce, Apache Spark, Kafka. One of the early ones in - built it before it was cool. |
+| **The Platform Era** | 2017 - 2021 | Python Django, Spring Boot, microservices, Docker, data pipelines at scale. Building engineering teams and products. |
+| **The Cloud Native Era** | 2021 - 2024 | Kubernetes orchestration, cloud-native data platforms, CI/CD, FastAPI, everything containerized. |
+| **The AI Era** | 2024 - now | RAG systems, AI agents, MCP servers, local LLMs, on-chain analytics, full-stack apps - all vibe-coded with Claude. The stack matters less when you understand the architecture. |
 
 ---
 
