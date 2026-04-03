@@ -37,51 +37,26 @@ Good enough to run local models, ComfyUI workflows, Docker stacks, and the occas
 
 ---
 
-### What I Bring to the Table
+### The Journey
 
-**The foundation** — Spring Boot, REST/SOAP Web Services, Python Django, Apache Spark, cloud-native apps. Built production systems with these for years.
-
-**The evolution** — Big Data pipelines, Kafka streaming, Hadoop ecosystems, Kubernetes orchestration, Docker everything.
-
-**The now** — With tools like Claude, the ceiling has moved. RAG systems, AI agents, MCP servers, full-stack apps, on-chain analytics — if I can think it, I can build it. The stack matters less when you understand the architecture.
+| Era | Years | What I Was Building |
+|-----|-------|-------------------|
+| **The Foundation** | 2003 – 2012 | C++, Java, Spring Boot, REST/SOAP Web Services, Python Django, cloud-native apps. Learning how things work, building production systems. |
+| **The Big Data Wave** | 2013 – 2019 | Cloudera Hadoop clusters, Apache Spark, Kafka streaming, Hive, data pipelines. One of the early ones in — built it before it was cool. |
+| **The Cloud Native Era** | 2019 – 2024 | Kubernetes orchestration, Docker everything, microservices, CI/CD, cloud-native data platforms. Products and engineering teams at scale. |
+| **The AI Era** | 2024 – now | RAG systems, AI agents, MCP servers, local LLMs, on-chain analytics, full-stack apps — all vibe-coded with Claude. The stack matters less when you understand the architecture. |
 
 ---
 
 ### Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend & Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Data & Streaming**
-
-![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Infrastructure & Cloud**
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**AI & Web3**
-
-![Claude](https://img.shields.io/badge/-Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend & Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Data & Streaming** | ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Infrastructure & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **AI & Web3** | ![Claude](https://img.shields.io/badge/-Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white) |
 
 ---
 
