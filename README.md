@@ -20,6 +20,7 @@ Lately, I've been deep in the Claude Code rabbit hole - and it's been a ride. So
 - Full-stack apps - from data pipelines to frontends, all vibe-coded with Claude
 
 Also here: https://github.com/john-thoma
+
 ---
 
 ### The Journey
