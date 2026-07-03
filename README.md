@@ -46,21 +46,3 @@ Lately, I've been deep in the Claude Code rabbit hole - and it's been a ride. So
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/johnthotekat">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnthotekat&theme=tokyonight" alt="Contribution Graph" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnthotekat&theme=tokyonight&utcOffset=5.5" alt="Commits by Time" height="165" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnthotekat&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
-
