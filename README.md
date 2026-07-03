@@ -21,22 +21,6 @@ Lately, I've been deep in the Claude Code rabbit hole - and it's been a ride. So
 
 ---
 
-### The Rig
-
-My daily driver for all of this:
-
-```
-CPU    AMD Ryzen (B650M Gigabyte GAMING X AX)
-GPU    NVIDIA RTX 3080 Ti (12GB VRAM)
-RAM    32 GB DDR5
-SSD    NVMe
-OS     Ubuntu Linux (kernel 6.17)
-```
-
-Good enough to run local models, ComfyUI workflows, Docker stacks, and the occasional CS2 session.
-
----
-
 ### The Journey
 
 | Era | Years | What I Was Building |
